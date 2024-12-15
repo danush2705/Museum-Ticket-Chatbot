@@ -1,0 +1,14 @@
+# LangChain for chatbot logic
+langchain
+langchain_groq
+langchain_community
+langchain_core
+
+# HTTP requests
+requests==2.31.0
+
+# Streamlit for front-end interaction
+streamlit
+
+# SQL for db manipulation
+mysql-connector-python
